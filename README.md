@@ -5,9 +5,11 @@ IF184504_WEBPRO_C_FIN_
 05111840000131 - Aaron Astonvilla
 05111840007007 - Nodas Uziel
 
-Untuk Login,
+Jika fitur Register tidak bisa,
+
+maka, Login dengan
+
 Username  : fp@gmail.com
 
 password  : 123456789
 
-fitur register masih error
