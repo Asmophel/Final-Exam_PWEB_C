@@ -7,6 +7,7 @@ IF184504_WEBPRO_C_FIN_
 
 Untuk Login,
 Username  : fp@gmail.com
-passwoed  : 123456789
+
+password  : 123456789
 
 fitur register masih error
